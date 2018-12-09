@@ -1,0 +1,5 @@
+50 10 40 30 5
+A B C D
+# Only the first two lines of this file is read by the program.
+# The first line should contain (n + 1) ints, where n is the number of matrices. These ints denote the dimensions of the matrices.
+# The second line contains n names; the name of each matrix; separated by a white space.
