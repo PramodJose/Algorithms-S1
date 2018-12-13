@@ -1,3 +1,8 @@
 5 4 6 3
 10 40 30 50
 10
+# Only the first three lines are read by the program.
+# The first line contains the weights of the items.
+# The second line contains the profits..
+# ..and the third line contains the total capacity of the knapsack/bag.
+# It is assumed that the number of ints on the first line equals the number of ints on the second line.
