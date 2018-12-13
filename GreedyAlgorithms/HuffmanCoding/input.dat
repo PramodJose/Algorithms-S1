@@ -1,0 +1,7 @@
+a e i s t sp nl
+10 15 12 3 4 13 1
+# Only the first two lines are read by the program.
+# The first line contains characters separated by white-spaces. Characters like space and newline can be represented as
+# 'sp' and 'nl', respectively. Any other meaningful combination can be used, if required.
+# The second line contains integers representing the frequency of the corresponding character on the first line.
+# It is assumed that the number of integers on the second line equals the number of characters on the first line.
